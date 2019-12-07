@@ -1,0 +1,3 @@
+yarn add webpack webpack-cli -D - Comando para instalação da dependência do webpack. Obs: o "D" no fim indica que é uma dependência apenas para ambiente de desenvolvimento.
+
+yarn add webpack-dev-server -D

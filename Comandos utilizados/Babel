@@ -1,0 +1,11 @@
+yarn add @babel/cli - Comando que permite trabalhar com a dependência de linha de comando do babel;
+
+yarn add @babel/preset-env - Comando que permite o babel entender em qual ambiente ele está trabalhando, como o browser, servidor, etc;
+--- este comando(@babel/preset-env), deve ser colocado no arquivo de configuração do babel(babel.rc).
+
+yarn add @babel/core;
+
+yarn add @babel/plugin-proposal-object-rest-spread - Comando que permite a utilização de rest e spread;
+--- Também deve ser colocado no arquivo babel.rc.
+
+yarn add babel-loader -D

@@ -1,0 +1,6 @@
+yarn add @babel/plugin-transform-async-to-generator -D - Comando para utilizar o Async/Await;
+--- Deve ser colocado no arquivo babel.rc.
+
+yarn add @babel/polyfill -D;
+--- Deve ser colocado no atributo "entry" do arquivo webpack.config.js.
+
