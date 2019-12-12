@@ -8,6 +8,7 @@ class App {
         this.inputEl = document.querySelector('input[name=repository')
         this.listEl = document.getElementById('repo-list');
 
+
         this.registerHandlers();
     }
 
